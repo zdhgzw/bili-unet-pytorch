@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(if not exist \"D:\\00-infinuo\\A_CV_Study_Note\\U-Net code\\unet-pytorch\\docs\" mkdir \"D:\\00-infinuo\\A_CV_Study_Note\\U-Net code\\unet-pytorch\\docs\")",
+      "Bash(dir:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
